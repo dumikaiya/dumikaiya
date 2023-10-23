@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dumikaiya
-- 👀 I’m interested in Data Science and Systems Engineering (backend? Yep!). Frontend in need
-- 🌱 I’m currently learning Go 
-- 🪴 Let's talk Python
+- 👀 I’m interested in Data Science and Systems Engineering
+- 🌱 I’m currently learning Linear Algebra
+- 🪴 Let's talk Python, Flutter, Angular, Docker, 
 - 💞️ I’m looking to collaborate on Go and Python projects
 - 📫 How to reach me 📧 dumikaiya@yahoo.com | skype: dumikaiya
 
